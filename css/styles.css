@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #e6f9ff; /*maroon*/
+  background-color: #00FFFF; /*aqua blue*/
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -55,7 +55,7 @@ h3 {
   border: 1px solid #661a00;
 }
 
-/** ============= Main content ===================== **/
+/** Main content  **/
 
 #main-content a {
 	text-decoration: none;
@@ -81,8 +81,8 @@ div.sectiontxt{
 	color: #ff9900;
 }
 
-/** #################################################################### **/
-/** ============= Media queries ===================== **/
+
+/**  Media queries  **/
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
